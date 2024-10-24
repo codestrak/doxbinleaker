@@ -1,0 +1,1 @@
+ $_SERVER['REMOTE_ADDR'].e $query = "SELECT * FROM users WHERE IP='" . $_SERVER['REMOTE_ADDR'] . "'";
